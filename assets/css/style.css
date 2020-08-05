@@ -1,0 +1,55 @@
+body, footer, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: #E9ECEF;
+}
+
+.jumbotron {
+    background: #abebe4;
+
+}
+
+.jumbotron  .self-name {
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jumbotron .title {
+    color: #464646;
+    font-size: 25x;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* post */
+
+a.card-link {
+    text-decoration: none;
+}
+
+a.card-link:link, a.card-link:visited  {
+    color: rgb(41, 40, 40);
+}
+
+
+
+a.card-link:hover, a.card-link:active {
+    color: #e24313;
+}
+
+
+.post-title {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.post-text {
+    color: #2b2b2b;
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 35px;
+}
